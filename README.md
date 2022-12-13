@@ -1,2 +1,4 @@
 # laby
-Marek jest fajny
+Oliwia Witkowska
+Aleksandara Szymańska
+Karolina Woch
