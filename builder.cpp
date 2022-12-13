@@ -4,7 +4,8 @@
 *   www.algorytm.org                    *
 *   Opracowal Dworak Kamil              *
 *****************************************/
- 
+//"Ver 1.1"
+ #include "stdafx.h"
 #include <iostream>
 #include <string>
 using namespace std;
