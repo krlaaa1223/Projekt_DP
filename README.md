@@ -1,1 +1,2 @@
 # laby
+Marek jest fajny
